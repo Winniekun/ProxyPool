@@ -1,3 +1,4 @@
 # 忽略文件
 .idea
 *__pycache__*
+.venv
